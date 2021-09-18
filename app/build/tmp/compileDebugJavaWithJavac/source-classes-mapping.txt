@@ -1,0 +1,17 @@
+com/byrookas/netflixapp/MainApplication.java
+ com.byrookas.netflixapp.MainApplication
+ com.byrookas.netflixapp.MainApplication$1
+com/byrookas/netflixapp/BuildConfig.java
+ com.byrookas.netflixapp.BuildConfig
+com/byrookas/netflixapp/generated/BasePackageList.java
+ com.byrookas.netflixapp.generated.BasePackageList
+com/byrookas/netflixapp/MainActivity.java
+ com.byrookas.netflixapp.MainActivity
+ com.byrookas.netflixapp.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/byrookas/netflixapp/ReactNativeFlipper.java
+ com.byrookas.netflixapp.ReactNativeFlipper
+ com.byrookas.netflixapp.ReactNativeFlipper$1
+ com.byrookas.netflixapp.ReactNativeFlipper$2
+ com.byrookas.netflixapp.ReactNativeFlipper$2$1
